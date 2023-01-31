@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto02", "Projeto02\Projeto02.csproj", "{BEF8DE80-6984-4C5F-930C-BF403BE3248C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto03", "Projeto03\Projeto03.csproj", "{2F9192D6-EDFC-4AD8-A772-E2A8C119224F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioStatic", "ExercicioStatic\ExercicioStatic.csproj", "{8173436F-82F6-44A6-877D-AF758FFFF6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF8DE80-6984-4C5F-930C-BF403BE3248C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF8DE80-6984-4C5F-930C-BF403BE3248C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF8DE80-6984-4C5F-930C-BF403BE3248C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF8DE80-6984-4C5F-930C-BF403BE3248C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9192D6-EDFC-4AD8-A772-E2A8C119224F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9192D6-EDFC-4AD8-A772-E2A8C119224F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9192D6-EDFC-4AD8-A772-E2A8C119224F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9192D6-EDFC-4AD8-A772-E2A8C119224F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8173436F-82F6-44A6-877D-AF758FFFF6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8173436F-82F6-44A6-877D-AF758FFFF6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8173436F-82F6-44A6-877D-AF758FFFF6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8173436F-82F6-44A6-877D-AF758FFFF6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B4ADEAC-3670-4BB8-BB4E-09B9DE7CE2E7}
+	EndGlobalSection
+EndGlobal
