@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.33026.149
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Triangulo", "Projeto02\01Triangulo.csproj", "{BEF8DE80-6984-4C5F-930C-BF403BE3248C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Triangulo", "01Triangulo\01Triangulo.csproj", "{BEF8DE80-6984-4C5F-930C-BF403BE3248C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Estoque", "Projeto03\02Estoque.csproj", "{2F9192D6-EDFC-4AD8-A772-E2A8C119224F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Estoque", "02Estoque\02Estoque.csproj", "{2F9192D6-EDFC-4AD8-A772-E2A8C119224F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03CotacaoDolar", "ExercicioStatic\03CotacaoDolar.csproj", "{8173436F-82F6-44A6-877D-AF758FFFF6DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03CotacaoDolar", "03CotacaoDolar\03CotacaoDolar.csproj", "{8173436F-82F6-44A6-877D-AF758FFFF6DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Aluguel", "ExercicioArray\04Aluguel.csproj", "{D41E05D2-2532-49F0-9B18-985EE6B5B417}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Aluguel", "04Aluguel\04Aluguel.csproj", "{D41E05D2-2532-49F0-9B18-985EE6B5B417}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
