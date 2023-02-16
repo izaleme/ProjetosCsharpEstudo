@@ -25,10 +25,11 @@ namespace _08Listas
 
             // Medir o tamanho da lista: Count
             Console.WriteLine("\nTotal de elementos: " + list.Count);
+            Console.WriteLine("\n---------------------------------");
 
             // Encontrar o primeiro elemento da lista que satisfaça um predicado: list.Find
             string encontraPrimeiro = list.Find(x => x[0] == 'X');     // => Expressão lâmbda
-            Console.WriteLine("\nPrimeiro elemento que começa com 'X': " + encontraPrimeiro);
+            Console.WriteLine("Primeiro elemento que começa com 'X': " + encontraPrimeiro);
 
             // Encontrar o último elemento da lista que satisfaça um predicado: list.FindLast
             string encontraUltimo = list.FindLast(x => x[0] == 'X');
