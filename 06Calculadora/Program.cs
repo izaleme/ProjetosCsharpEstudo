@@ -10,10 +10,9 @@ namespace _06Calculadora
     {
         static void Main(string[] args)
         {
-
             // Numa situação onde precisamos de uma calculadora, o jeito mais eficaz de trabalhar é com arrays
-            int result = Calculadora.Sum(new int[] { 10, 20, 30, 40 });
 
+            int result = Calculadora.Sum(10, 20, 30, 40);
 
         }
     }

@@ -8,8 +8,8 @@ namespace _06Calculadora
 {
     class Calculadora
     {
-
-        public static int Sum(int[] numbers)
+        // usamos o params quando temos um número indefinido de variáveis
+        public static int Sum(params int[] numbers)
         {
             int sum = 0;
             for (int i = 0; i < numbers.Length; i++)
