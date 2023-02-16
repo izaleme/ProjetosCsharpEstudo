@@ -16,19 +16,19 @@ namespace _07CalculadoraPt2
             // *************************
             // Como seria utilizando ref        => REF FAZ O PARÂMETRO SER UMA REFERÊNCIA PARA A VARIÁVEL ORIGINAL
 
-            int a = 10;
+            /*int a = 10;
             Calculator.Triple(ref a);
-            Console.WriteLine(a);
+            Console.WriteLine(a);*/
 
 
             // **************************
             // Como seria utilizando out:       => OUT É COMO O REF, MAS NÃO EXIGE A INICIALIZAÃO DA VARIÁVEL ORIGINAL
 
-            /*int a = 10;
+            int a = 10;
             int triple;
 
             Calculator.Triple(a, out triple);
-            Console.WriteLine(triple);*/
+            Console.WriteLine(triple);
         }
     }
 }
