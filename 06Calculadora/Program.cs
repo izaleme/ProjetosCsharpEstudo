@@ -8,6 +8,8 @@ namespace _06Calculadora
 {
     class Program
     {
+        // AULA DE MODIFICADORES DE PARÂMETROS (PARAMS)
+
         static void Main(string[] args)
         {
             // Numa situação onde precisamos de uma calculadora, o jeito mais eficaz de trabalhar é com arrays
