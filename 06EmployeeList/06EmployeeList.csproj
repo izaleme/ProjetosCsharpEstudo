@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DB951424-F4FB-484C-B1DE-CC5A5AE5EADB}</ProjectGuid>
+    <ProjectGuid>{6CC67AF3-DAEA-4D03-B450-1C53027D47FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_08Listas</RootNamespace>
-    <AssemblyName>08Listas</AssemblyName>
+    <RootNamespace>_06EmployeeList</RootNamespace>
+    <AssemblyName>06EmployeeList</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
