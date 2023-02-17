@@ -8,7 +8,7 @@ namespace _06Calculadora
 {
     class Calculadora
     {
-        // usamos o params quando temos um número indefinido de variáveis
+        // Usamos o params quando temos um número indefinido de variáveis
         public static int Sum(params int[] numbers)
         {
             int sum = 0;
@@ -17,6 +17,18 @@ namespace _06Calculadora
                 sum += numbers[i];
             }
             return sum;
+        }
+
+        // Utilizando ref:
+        public static void Triple(ref int x)
+        {
+            x = x * 3;
+        }
+
+        // Utilizando out:
+        public static void Triple(int origin, out int result)
+        {
+            result = origin * 3;
         }
 
     }

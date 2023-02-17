@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _08Listas
+namespace _07Listas
 {
     class Program
     {
