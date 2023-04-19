@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08EnumsComposition", "08Enu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09Polymorphism", "09Polymorphism\09Polymorphism.csproj", "{74340C97-1659-4B41-BC13-2D11C62D32F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Exceptions", "Course10Exceptions\10Exceptions.csproj", "{EB0F250C-FAFA-46F7-8B7F-6CC886976FA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{74340C97-1659-4B41-BC13-2D11C62D32F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74340C97-1659-4B41-BC13-2D11C62D32F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74340C97-1659-4B41-BC13-2D11C62D32F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0F250C-FAFA-46F7-8B7F-6CC886976FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0F250C-FAFA-46F7-8B7F-6CC886976FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0F250C-FAFA-46F7-8B7F-6CC886976FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0F250C-FAFA-46F7-8B7F-6CC886976FA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
